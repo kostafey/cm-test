@@ -3,7 +3,7 @@
 (clomacs-defun cm-test-md-to-html-wrapper
                cm-test.core/my-md-to-html-string
                :lib-name "cm-test"
-               :namespace "cm-test.core"
+               :namespace cm-test.core
                :doc "Convert markdown to html via clojure lib.")
 
 (defun cm-test-mdarkdown-to-html (beg end)
