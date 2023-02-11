@@ -1,3 +1,7 @@
+;;; cm-test.el ---
+
+;; Version: 0.1
+
 (require 'clomacs)
 
 (clomacs-defun cm-test-set-emacs-connection
@@ -52,3 +56,4 @@
 ;; # This is a test
 ;; (cm-test-md-to-html-wrapper (cm-test-strong-emacs-version))
 
+;;; cm-test.el ends here

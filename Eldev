@@ -1,0 +1,1 @@
+(setf eldev-project-main-file "src/elisp/cm-test.el")
