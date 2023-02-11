@@ -1,4 +1,5 @@
 [![Build Status](https://github.com/kostafey/cm-test/workflows/CI/badge.svg)](https://github.com/kostafey/cm-test/actions?query=workflow%3ACI)
+[![Coverage Status](https://coveralls.io/repos/kostafey/cm-test/badge.svg?branch=master)](https://coveralls.io/github/kostafey/cm-test?branch=master)
 
 # cm-test
 
